@@ -1,0 +1,83 @@
+{
+  "name": "mdp-application",
+  "description": "Mono repo used to host Medicaid Drug Program application and infrastructure code",
+  "longDescription": "Mono repo used to host Medicaid Drug Program application, infrastructure, and testing code.",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "n/a"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/mdp-application",
+  "projectURL": "portal.cms.gov",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 1,
+  "reuseFrequency": {
+    "forks": 0,
+    "clones": 0
+  },
+  "platforms": [
+    "windows",
+    "mac",
+    "linux"
+  ],
+  "categories": [
+    "budgeting",
+    "business-intelligence",
+    "business-process-management",
+    "data-analytics",
+    "data-collection"
+  ],
+  "softwareType": "standalone/web",
+  "languages": [
+    "java",
+    "angular",
+    "sql"
+  ],
+  "maintenance": "internal",
+  "contractNumber": "47QTCA20D000W:75FCMC24F0189",
+  "date": {
+    "created": "2025-07-01T00:00:00-04:00",
+    "lastModified": "2025-07-01T00:00:00-04:00",
+    "metaDataLastUpdated": "2025-07-01T00:00:00-04:00"
+  },
+  "tags": [
+    "java",
+    "angular",
+    "sql"
+  ],
+  "contact": {
+    "email": "stephanie.hauf@cms.hhs.gov",
+    "name": "Stephanie Hauf"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/mdp-application"
+  ],
+  "localisation": true,
+  "repositoryType": "application",
+  "userInput": true,
+  "fismaLevel": "Moderate",
+  "group": "Digital Services Group",
+  "projects": [
+    "Medicaid Drug Program"
+  ],
+  "systems": [
+    "Medicaid Drug Program"
+  ],
+  "upstream": "none",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 0
+}
