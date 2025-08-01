@@ -1,6 +1,6 @@
 {
   "name": "mac-fc-scan-github",
-  "description": "This action uses the GitHub Actions API to scan for workflow runs and PR data to send the MACBIS DSO Metrics API.",
+  "description": "",
   "longDescription": "This action uses the GitHub Actions API to scan for workflow runs and PR data to send the MACBIS DSO Metrics API.",
   "status": "Production",
   "permissions": {
@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "public",
   "vcs": "git",
-  "laborHours": 0,
+  "laborHours": 9510,
   "reuseFrequency": {
     "forks": 790
   },
@@ -31,13 +31,16 @@
     "it-development"
   ],
   "softwareType": "standalone/backend",
-  "languages": [],
+  "languages": [
+    "JavaScript",
+    "TypeScript"
+  ],
   "maintenance": "contract",
   "contractNumber": "47QTCA21D00AC",
   "date": {
-    "created": "2024-11-24T16:38:00Z",
-    "lastModified": "",
-    "metaDataLastUpdated": ""
+    "created": "2024-05-23T14:01:30Z",
+    "lastModified": "2025-07-14T13:38:56Z",
+    "metaDataLastUpdated": "2025-08-01T00:41:05.197Z"
   },
   "tags": [
     "security",
