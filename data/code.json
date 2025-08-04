@@ -2,7 +2,7 @@
   "version": "2.0",
   "agency": "CMS",
   "measurementType": {
-    "method": "projects"
+    "method": "releases"
   },
   "projects": [
     {
@@ -1882,8 +1882,8 @@
       "contractNumber": "75FCMC19D0091/75FCMC21F0001",
       "date": {
         "created": "2024-10-15T20:11:50Z",
-        "lastModified": "2025-06-27T17:06:22Z",
-        "metaDataLastUpdated": "2025-07-01T00:06:58.578Z"
+        "lastModified": "2025-07-08T17:14:51Z",
+        "metaDataLastUpdated": "2025-08-01T00:07:47.358Z"
       },
       "description": "",
       "feedbackMechanisms": [
@@ -5875,8 +5875,8 @@
       "contractNumber": "GS-35F-303GA",
       "date": {
         "created": "2023-08-28T20:46:47Z",
-        "lastModified": "2025-06-30T20:13:05Z",
-        "metaDataLastUpdated": "2025-07-01T00:02:40.383Z"
+        "lastModified": "2025-07-31T23:50:06Z",
+        "metaDataLastUpdated": "2025-08-01T00:02:32.780Z"
       },
       "description": "Reporting Service for MACFin which maintains budget and expenses for States and Federal Govt. for Medicaid and CHIP.",
       "feedbackMechanisms": [
@@ -5884,7 +5884,7 @@
       ],
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
-      "laborHours": 13385,
+      "laborHours": 13630,
       "languages": [
         "Java",
         "HTML",
@@ -6143,8 +6143,8 @@
       "contractNumber": "GS-35F-303GA",
       "date": {
         "created": "2023-08-28T20:50:07Z",
-        "lastModified": "2025-06-30T20:31:27Z",
-        "metaDataLastUpdated": "2025-07-01T00:22:25.957Z"
+        "lastModified": "2025-07-31T16:15:13Z",
+        "metaDataLastUpdated": "2025-08-01T00:23:31.195Z"
       },
       "description": "Web / UI for MACFin which maintains budget and expenses for States and Federal Govt. for Medicaid and CHIP.",
       "feedbackMechanisms": [
@@ -6152,7 +6152,7 @@
       ],
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
-      "laborHours": 30279,
+      "laborHours": 30362,
       "languages": [
         "JavaScript",
         "Java",

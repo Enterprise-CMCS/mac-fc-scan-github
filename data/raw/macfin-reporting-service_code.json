@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 13385,
+  "laborHours": 13630,
   "reuseFrequency": {
     "forks": 0,
     "clones": 6
@@ -51,8 +51,8 @@
   "contractNumber": "GS-35F-303GA",
   "date": {
     "created": "2023-08-28T20:46:47Z",
-    "lastModified": "2025-06-30T20:13:05Z",
-    "metaDataLastUpdated": "2025-07-01T00:02:40.383Z"
+    "lastModified": "2025-07-31T23:50:06Z",
+    "metaDataLastUpdated": "2025-08-01T00:02:32.780Z"
   },
   "tags": [
     "#devsecops",
